@@ -1,6 +1,15 @@
 # _*_coding:utf-8 _*_
+
+# author: Marco García Baturan
+# date: 2017/06/25
+# Licence: GNU
+# Theme: A.I, C.V
+
 # import modules
 from SimpleCV import *
+"""
+Simple script in python where capture the camera in computer , give some erode to picture and
+add some text."""
 
 # variables charged
 cam = Camera()  # get images from camera
